@@ -1,8 +1,6 @@
 Config = {}
 
 Config.Locale = 'en'
-Config.RandomZones = true -- random zones in delay 
-Config.RandomZonesChance = 50 
 
 Config.NPC = {
     {
